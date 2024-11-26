@@ -69,8 +69,9 @@ An advanced web application designed to implement Role-Based Access Control (RBA
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/arshikhan5422/Role-Based-Access-Control.git
-   cd Role-Based-Access-Control/rbac-ui
+   git clone https://github.com/Kalyan000000000000000000007/Role_Based_Access_Control.git
+   cd Role_Based_Access_Control
+
 
 
 2. **Install dependencies:**
