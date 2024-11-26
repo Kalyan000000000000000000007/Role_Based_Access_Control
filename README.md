@@ -38,26 +38,29 @@ An advanced web application designed to implement Role-Based Access Control (RBA
 ## 🖼️ Visual Walkthrough
 
 ### 🏠 Home Page
-![Home Page](src/outputs/home5.png)
+![Home Page](src/outputs/home8.png)
 
 ### 🙋‍♂️ User Management Form
-![User Management](src/outputs/um5.png)
+![User Management](src/outputs/um8.png)
 
 ### 📋 User Details Table
-![User Management](src/outputs/um6.png)
+![User Management](src/outputs/um9.png)
 
 ### 🎭 Role Assignment
-![Role Management](src/outputs/rm5.png)
+![Role Management](src/outputs/rm8.png)
 
 ### 🗂️ Role Overview Table
-![Role Management Table](src/outputs/rm6.png)
+![Role Management Table](src/outputs/rm9.png)
 
 
 ### 🔐 Permissions Interface
-![Permissions Management](src/outputs/pm5.png)
+![Permissions Management](src/outputs/pm8.png)
 
 ### 📑 Permissions Table
-![Permissions Management Table](src/outputs/pm6.png)
+![Permissions Management Table](src/outputs/pm9.png)
+
+### 📑 Permissions Delete
+![Permissions Management Table](src/outputs/pm10.png)
 
 
 ---
